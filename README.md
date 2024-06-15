@@ -2,8 +2,6 @@
 
 Hello! I am a **Front-End Developer** with over two years of experience, specializing in creating modern and interactive web interfaces. Passionate about technology and always seeking new challenges, I enjoy exploring different frameworks and libraries to deliver efficient and high-quality solutions.
 
-![Illustration Gif](https://steamuserimages-a.akamaihd.net/ugc/1688273269964958118/4326268E9DC38BFD50C04EC9F959AE4C1DC767A6/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
-
 ## About Me
 
 - **Name:** Marcos Vinícius da Silva
