@@ -38,8 +38,6 @@ I am always looking to collaborate with other developers and contribute to open-
 
 ## Contact
 
-- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/marcozviniciusdasilva/)]
-
 Feel free to explore my repositories and contact me if you have any questions or if you want to collaborate on a project. Thank you for visiting!
 
 ---
