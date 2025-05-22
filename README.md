@@ -30,6 +30,7 @@ I'm a Front-End Developer with 3 years of experience and currently in the eighth
 </div>
 <h4>Back-End</h4>
 <div class="flex flex-row gap-4 items-center">
+  <img alt="Java Logo" title="Java" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />    
   <img alt="Spring Logo" title="Spring" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />    
   <img alt="PostgreSQL Logo" title="PostgreSQL" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />    
   <img alt="MySQL Logo" title="Spring" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />    
@@ -37,6 +38,24 @@ I'm a Front-End Developer with 3 years of experience and currently in the eighth
 </div>
 
 ## **Portfolio:**
+## 📖 Uplingo — AI-Powered Language Learning Platform
+
+An immersive language learning platform enhanced by AI — including storytelling, grammar feedback, and real-time suggestions.
+
+---
+
+You can watch a presentation [visualize](https://youtube.com)
+
+---
+
+#### 🔗 Repositories
+
+| Project | Description | Link |
+|--------|-------------|------|
+| 🌐 **Web Front-End** | Interface built with Angular, NgRx and TailwindCSS | [visualize](https://github.com/Marcozvs/UplingoWebFrontEnd) |
+| 🔐 **Authorization Server** | OIDC-compliant auth server using Spring Authorization Server | [visualize](https://github.com/Marcozvs/UplingoAuthorizationServer) |
+| 📊 **Resource Server** | Spring-based backend serving protected resources and AI endpoints | [visualize](https://github.com/Marcozvs/UplingoResourceServer) |
+| 🗄️ **Database** | SQL scripts and schema for PostgreSQL | [visualize](https://github.com/Marcozvs/UplingoDatabase)
 
 ## Contact
 
