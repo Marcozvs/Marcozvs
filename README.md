@@ -21,8 +21,17 @@ I have experience in front-end development, with extensive knowledge of both the
     - Axios
 - **Back-End:**
   - Spring Ecosystem
-    - Spring Boot
-    - Spring Security  
+    - Spring Web
+    - Spring Security
+    - Spring Data JPA
+    - Spring MVC
+    - Spring Validation
+    - Spring Actuator
+    - Spring DevTools
+    - Spring Test
+   
+## **Portfolio:** 
+
 ## Contact
 - **E-mail:** marcos.vi.sampas@gmail.com
 - **LinkedIn** https://www.linkedin.com/in/marcozviniciusdasilva/
