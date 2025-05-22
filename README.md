@@ -1,45 +1,28 @@
-# Welcome to my GitHub!
-
-Hello! I am a **Front-End Developer** with over two years of experience, specializing in creating modern and interactive web interfaces. Passionate about technology and always seeking new challenges, I enjoy exploring different frameworks and libraries to deliver efficient and high-quality solutions.
-
 ## About Me
 
-- **Name:** Marcos Vinícius da Silva
-- **Specialization:** Front-End Development
-- **Experience:** Over 2 years
-- **Main Technologies:** 
-  - **HTML & CSS**
-  - **JavaScript & TypeScript**
-  - **Angular, RxJS & NgRx**
-  - **React**
+I am a front-end developer with three years of experience and currently in the eighth semester of my Computer Engineering degree at Universidade São Judas Tadeu. I have hands-on experience in software development, working on the creation of efficient and intuitive interfaces aligned with best practices in usability and performance.
 
-<!-- ## Featured Projects
+At Maida.health, I contributed to the development of the iHealth healthcare management platform and the telemedicine solution. Later, at POST, I worked on the front-end development of a public offering management platform, being responsible for implementing the system’s interfaces and user flows.
 
-### 1. [Project Name 1]
-Brief description of the project, highlighting the technologies used and the purpose of the project.
-- **Technologies:** HTML, CSS, JavaScript
-- [Repository Link](URL_do_Repositório)
+I have experience in front-end development, with extensive knowledge of both the Angular and React ecosystems. Among the technologies in these environments, I highlight RxJS and NgRx in Angular, and Redux and Next.js in React. Additionally, I have knowledge of back-end development using the Spring ecosystem, as well as a solid foundation in software architecture, database modeling, and UML for system analysis and documentation.
 
-### 2. [Project Name 2]
-Brief description of the project, highlighting the technologies used and the purpose of the project.
-- **Technologies:** React, TypeScript, CSS Modules
-- [Repository Link](URL_do_Repositório)
-
-### 3. [Project Name 3]
-Brief description of the project, highlighting the technologies used and the purpose of the project.
-- **Technologies:** Angular, RxJS, NgRx
-- [Repository Link](URL_do_Repositório)
-
-## Contributions
-
-I am always looking to collaborate with other developers and contribute to open-source projects. Here are some of my contributions:
-- **Project A:** Added features X and Y, improving user experience.
-- **Project B:** Fixed bugs and optimized application performance. -->
-
+## Skills
+- **Front-End:**
+  - Angular Ecosystem
+    - RxJS
+    - NgRx
+    - Nx
+    - Playwright
+    - Jasmine & Karma
+  - React Ecosystem
+    - Next
+    - Redux
+    - Jest
+    - Axios
+- **Back-End:**
+  - Spring Ecosystem
+    - Spring Boot
+    - Spring Security  
 ## Contact
-
-Feel free to explore my repositories and contact me if you have any questions or if you want to collaborate on a project. Thank you for visiting!
-
----
-
-Thank you for visiting my GitHub profile!
+- **E-mail:** marcos.vi.sampas@gmail.com
+- **LinkedIn** https://www.linkedin.com/in/marcozviniciusdasilva/
