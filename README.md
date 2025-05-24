@@ -55,6 +55,8 @@ An immersive language learning platform enhanced by AI — including storytellin
 
 🎥 I'm currently preparing a presentation video to better showcase the platform and its features.
 
+👉 In the meantime, you can get an overview of the project [here](https://drive.google.com/file/d/1UxXh8AFQhWbLeapy00b_XaOIiAWgMeyt/view?usp=sharing).
+
 #### 🔗 Repositories
 
 📂 I'm also working on making the repositories public. In the meantime, feel free to reach out via email if you'd like early access or more information.
