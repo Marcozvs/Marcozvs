@@ -27,14 +27,25 @@ I'm a Front-End Developer with 3 years of experience and currently in the eighth
   <img alt="Next Logo" title="Next" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />  
   <img alt="Redux Logo" title="Redux" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />  
   <img alt="Axios Logo" title="Axios" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" />  
+  <img alt="Jest Logo" title="Jest" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />  
 </div>
 <h4>Back-End</h4>
 <div class="flex flex-row gap-4 items-center">
   <img alt="Java Logo" title="Java" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />    
+  <img alt="JUnit Logo" title="JUnit" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" />    
   <img alt="Spring Logo" title="Spring" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />    
   <img alt="PostgreSQL Logo" title="PostgreSQL" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />    
   <img alt="MySQL Logo" title="Spring" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />    
 </div>
+<h4>Infrastructure</h4>
+<div class="flex flex-row gap-4 items-center">
+  <img alt="Docker Logo" title="Docker" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />  
+  <img alt="Docker Compose Logo" title="Docker Compose" width="30" src="https://salsa.debian.org/docker-compose-team/docker-compose/-/avatar" />  
+  <img alt="Kubernetes Logo" title="Kubernetes" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />  
+  <img alt="AWS Logo" title="AWS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />  
+</div>
+<br />
+💡 I have general knowledge of AWS and I'm currently working on deepening my skills in infrastructure and DevOps.
 </div>
 
 ## **Portfolio:**
@@ -42,20 +53,13 @@ I'm a Front-End Developer with 3 years of experience and currently in the eighth
 
 An immersive language learning platform enhanced by AI — including storytelling, grammar feedback, and real-time suggestions.
 
----
-
-You can watch a presentation [visualize](https://youtube.com)
-
----
+🎥 I'm currently preparing a presentation video to better showcase the platform and its features.
 
 #### 🔗 Repositories
 
-| Project | Description | Link |
-|--------|-------------|------|
-| 🌐 **Web Front-End** | Interface built with Angular, NgRx and TailwindCSS | [visualize](https://github.com/Marcozvs/UplingoWebFrontEnd) |
-| 🔐 **Authorization Server** | OIDC-compliant auth server using Spring Authorization Server | [visualize](https://github.com/Marcozvs/UplingoAuthorizationServer) |
-| 📊 **Resource Server** | Spring-based backend serving protected resources and AI endpoints | [visualize](https://github.com/Marcozvs/UplingoResourceServer) |
-| 🗄️ **Database** | SQL scripts and schema for PostgreSQL | [visualize](https://github.com/Marcozvs/UplingoDatabase)
+📂 I'm also working on making the repositories public. In the meantime, feel free to reach out via email if you'd like early access or more information.
+
+📩 E-mail: marcos.vi.sampas@gmail.com
 
 ## Contact
 
