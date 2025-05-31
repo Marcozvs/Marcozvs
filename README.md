@@ -61,8 +61,6 @@ An immersive language learning platform enhanced by AI — including storytellin
 
 📂 I'm also working on making the repositories public. In the meantime, feel free to reach out via email if you'd like early access or more information.
 
-📩 E-mail: marcos.vi.sampas@gmail.com
-
 ## Contact
 
 - **E-mail:** marcos.vi.sampas@gmail.com
