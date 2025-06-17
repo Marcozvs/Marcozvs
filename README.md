@@ -33,9 +33,8 @@ I'm a Front-End Developer with 3 years of experience and currently in the eighth
 <div class="flex flex-row gap-4 items-center">
   <img alt="Java Logo" title="Java" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />    
   <img alt="JUnit Logo" title="JUnit" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" />    
-  <img alt="Spring Logo" title="Spring" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />    
-  <img alt="PostgreSQL Logo" title="PostgreSQL" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />    
-  <img alt="MySQL Logo" title="Spring" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />    
+  <img alt="Spring Logo" title="Spring Framework" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />    
+  <img alt="PostgreSQL Logo" title="PostgreSQL" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </div>
 <h4>Infrastructure</h4>
 <div class="flex flex-row gap-4 items-center">
