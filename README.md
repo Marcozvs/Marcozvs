@@ -48,7 +48,7 @@ I'm a Front-End Developer with 3 years of experience and currently in the eighth
 </div>
 
 ## **Portfolio:**
-## 📖 Uplingo — AI-Powered Language Learning Platform
+## Uplingo — AI-Powered Language Learning Platform
 [Official website](https://sites.google.com/view/uplingo/home)
 
 Uplingo is an AI-powered educational platform designed to help users practice grammar through dynamic storytelling.
