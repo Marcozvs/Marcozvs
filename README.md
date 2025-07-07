@@ -49,14 +49,9 @@ I'm a Front-End Developer with 3 years of experience and currently in the eighth
 
 ## **Portfolio:**
 ## 📖 Uplingo — AI-Powered Language Learning Platform
+[Official website](https://sites.google.com/view/uplingo/home)
 
-An immersive language learning platform enhanced by AI — including storytelling, grammar feedback, and real-time suggestions.
-
-🎥 I'm currently preparing a presentation video to better showcase the platform and its features.
-
-👉 In the meantime, you can get an overview of the project [here](https://drive.google.com/file/d/1UxXh8AFQhWbLeapy00b_XaOIiAWgMeyt/view?usp=sharing).
-
-#### 🔗 Repositories
+Uplingo is an AI-powered educational platform designed to help users practice grammar through dynamic storytelling.
 
 📂 I'm also working on making the repositories public. In the meantime, feel free to reach out via email if you'd like early access or more information.
 
