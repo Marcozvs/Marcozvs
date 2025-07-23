@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a Front-End Developer with 3 years of experience and currently in the eighth semester of my Computer Engineering degree at Universidade São Judas Tadeu. I build high-performance, user-friendly interfaces with Angular and React, using tools like RxJS, NgRx, Redux, and Next.js, and have hands-on experience with the Spring back-end ecosystem. I've contributed to healthcare and finance platforms such as iHealth (Maida.health) and POST's public offering system, participating in the front-end architecture and user experience flows.
+I’m a front-end developer with 3+ years of experience, skilled in Angular, React, and Vue, creating efficient, user-focused interfaces and systems.
 
 ---
 
@@ -41,19 +41,25 @@ I'm a Front-End Developer with 3 years of experience and currently in the eighth
   <img alt="Docker Logo" title="Docker" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />  
   <img alt="Docker Compose Logo" title="Docker Compose" width="30" src="https://salsa.debian.org/docker-compose-team/docker-compose/-/avatar" />  
   <img alt="Kubernetes Logo" title="Kubernetes" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />  
-  <img alt="AWS Logo" title="AWS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />  
 </div>
 <br />
 💡 I have general knowledge of AWS and I'm currently working on deepening my skills in infrastructure and DevOps.
 </div>
 
-## **Portfolio:**
-## Uplingo — AI-Powered Language Learning Platform
-[Official website](https://sites.google.com/view/uplingo/home)
+## **Projects:**
+## Uplingo
 
-Uplingo is an AI-powered educational platform designed to help users practice grammar through dynamic storytelling.
+* [Official website]([https://sites.google.com/view/uplingo/home](https://marcozvs.github.io/UplingoPublicPage/))
+* [Repository]([https://github.com/Marcozvs/Uplingo](https://github.com/Marcozvs/Uplingo))
 
-📂 I'm also working on making the repositories public. In the meantime, feel free to reach out via email if you'd like early access or more information.
+Uplingo is an interactive language learning platform that uses AI to create personalized stories, making study engaging, practical, and tailored to each learner’s profile.
+
+<p align="center">
+  <a href="https://youtu.be/LUQ8-kdwiQs?si=cn_Y9tPbIfkQMZ_F">
+    <img src="https://img.youtube.com/vi/LUQ8-kdwiQs/0.jpg" alt="Watch the video" width="400"/>
+  </a>
+</p>
+<p align="center"><em>Click to watch the full presentation video on YouTube</em></p>
 
 ## Contact
 
