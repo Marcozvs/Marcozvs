@@ -6,9 +6,7 @@
 
 I’m a front-end developer with 3+ years of experience, skilled in Angular, React, and Vue, creating efficient, user-focused interfaces and systems.
 
----
-
-### Languages ​​and technologies
+## Languages ​​and technologies
 
 <div class="flex flex-col gap-4">
 <h4>Front-End</h4>
