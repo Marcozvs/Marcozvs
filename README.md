@@ -49,10 +49,6 @@ I’m a front-end developer with 3+ years of experience, skilled in Angular, Rea
 ## **Projects:**
 ### Uplingo
 
-[Official website]([https://sites.google.com/view/uplingo/home](https://marcozvs.github.io/UplingoPublicPage/))
-
-[Repository]([https://github.com/Marcozvs/Uplingo](https://github.com/Marcozvs/Uplingo))
-
 Uplingo is an interactive language learning platform that uses AI to create personalized stories, making study engaging, practical, and tailored to each learner’s profile.
 
 <p align="center">
@@ -61,6 +57,8 @@ Uplingo is an interactive language learning platform that uses AI to create pers
   </a>
 </p>
 <p align="center"><em>Click to watch the full presentation video on YouTube</em></p>
+
+<a href="https://marcozvs.github.io/UplingoPublicPage/">Official website</a> | <a href="https://github.com/Marcozvs/Uplingo">Repository</a>
 
 ## Contact
 
