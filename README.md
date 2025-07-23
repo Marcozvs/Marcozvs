@@ -1,4 +1,4 @@
-# 👨🏾‍💻Marcos Vinícius da Silva
+# Marcos Vinícius da Silva
 
 **`Front-End Developer`**
 
@@ -8,7 +8,7 @@ I’m a front-end developer with 3+ years of experience, skilled in Angular, Rea
 
 ---
 
-### ⚙️ Languages ​​and technologies
+### Languages ​​and technologies
 
 <div class="flex flex-col gap-4">
 <h4>Front-End</h4>
@@ -45,7 +45,7 @@ I’m a front-end developer with 3+ years of experience, skilled in Angular, Rea
   <img alt="Kubernetes Logo" title="Kubernetes" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />  
 </div>
 <br />
-💡 I have general knowledge of AWS and I'm currently working on deepening my skills in infrastructure and DevOps.
+I have general knowledge of AWS and I'm currently working on deepening my skills in infrastructure and DevOps.
 </div>
 
 ## **Projects:**
