@@ -2,9 +2,51 @@
 
 **`Front-End Developer`**
 
-## About Me
+<a href="https://www.linkedin.com/in/marcoz-silva/" target="_blank">
+  <img alt="LinkedIn" title="LinkedIn" width="24"
+    src="https://img.icons8.com/color/48/000000/linkedin--v1.png" style="filter: hue-rotate(20deg) brightness(1.2);" />
+</a>
+<a href="https://www.youtube.com/@MarcozDev" target="_blank">
+  <img alt="YouTube" title="YouTube" width="24"
+    src="https://img.icons8.com/color/48/000000/youtube-play.png" style="filter: hue-rotate(10deg) brightness(1.2);" />
+</a>
+<a href="https://medium.com/@marcoz-silva" target="_blank">
+  <img alt="Medium" title="Medium" width="24"
+    src="https://img.icons8.com/color/48/000000/medium-monogram--v1.png" style="filter: hue-rotate(10deg) brightness(1.2);" />
+</a>
 
-I’m a front-end developer with 3+ years of experience, skilled in Angular, React, and Vue, creating efficient, user-focused interfaces and systems.
+<p></p>
+
+<p>I’m a front-end developer with 3+ years of experience, skilled in Angular, React, and Vue, creating efficient, user-focused interfaces and systems.</p>
+
+<p align="left">
+  <a href="https://github.com/marcozvs">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=marcozvs&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcozvs&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+![GitHub Activity Graph](https://activity-graph.vercel.app/graph?username=marcozvs&theme=github)
+
+<p align="center">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcozvs&layout=compact&theme=gruvbox&hide_border=true" />
+</p>
+
+## **Projects:**
+### Uplingo
+
+Uplingo is an interactive language learning platform that uses AI to create personalized stories, making study engaging, practical, and tailored to each learner’s profile.
+
+<p align="center">
+  <a href="https://youtu.be/LUQ8-kdwiQs?si=cn_Y9tPbIfkQMZ_F" target="_blank">
+    <img src="https://img.youtube.com/vi/LUQ8-kdwiQs/0.jpg" alt="Watch the video" width="400"/>
+  </a>
+</p>
+<p align="center"><em>Click to watch the full presentation video on YouTube</em></p>
+
+
+<a href="https://marcozvs.github.io/UplingoPublicPage/" target="_blank">Official website</a> | <a href="https://github.com/Marcozvs/Uplingo" target="_blank">Repository</a>
 
 ## Languages ​​and technologies
 
@@ -42,25 +84,4 @@ I’m a front-end developer with 3+ years of experience, skilled in Angular, Rea
   <img alt="Docker Compose Logo" title="Docker Compose" width="30" src="https://salsa.debian.org/docker-compose-team/docker-compose/-/avatar" />  
   <img alt="Kubernetes Logo" title="Kubernetes" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />  
 </div>
-<br />
-I have general knowledge of AWS and I'm currently working on deepening my skills in infrastructure and DevOps.
 </div>
-
-## **Projects:**
-### Uplingo
-
-Uplingo is an interactive language learning platform that uses AI to create personalized stories, making study engaging, practical, and tailored to each learner’s profile.
-
-<p align="center">
-  <a href="https://youtu.be/LUQ8-kdwiQs?si=cn_Y9tPbIfkQMZ_F" target="_blank">
-    <img src="https://img.youtube.com/vi/LUQ8-kdwiQs/0.jpg" alt="Watch the video" width="400"/>
-  </a>
-</p>
-<p align="center"><em>Click to watch the full presentation video on YouTube</em></p>
-
-<a href="https://marcozvs.github.io/UplingoPublicPage/" target="_blank">Official website</a> | <a href="https://github.com/Marcozvs/Uplingo" target="_blank">Repository</a>
-
-## Contact
-
-- **E-mail:** marcos.vi.sampas@gmail.com
-- **LinkedIn** [Click here](https://www.linkedin.com/in/marcozviniciusdasilva/)
