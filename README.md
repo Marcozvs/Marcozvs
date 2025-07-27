@@ -22,16 +22,10 @@
 <p align="left">
   <a href="https://github.com/marcozvs">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=marcozvs&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcozvs&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcozvs&layout=compact&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
-
-![GitHub Activity Graph](https://activity-graph.vercel.app/graph?username=marcozvs&theme=github)
-
-<p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcozvs&layout=compact&theme=gruvbox&hide_border=true" />
-</p>
 
 ## **Projects:**
 ### Uplingo
