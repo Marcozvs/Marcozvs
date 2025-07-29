@@ -60,9 +60,7 @@ Uplingo is an interactive language learning platform that uses AI to create pers
   <img alt="Next Logo" title="Next" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />  
   <img alt="Redux Logo" title="Redux" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />  
   <img alt="Axios Logo" title="Axios" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" />  
-  <img alt="Jest Logo" title="Jest" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />  
-  <img alt="Vue Logo" title="Vue.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />  
-  <img alt="Nuxt Logo" title="Nuxt.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />
+  <img alt="Jest Logo" title="Jest" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 </div>
 <h4>Back-End</h4>
 <div class="flex flex-row gap-4 items-center">
