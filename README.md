@@ -2,10 +2,6 @@
 
 **`Front-End Developer`**
 
-<a href="https://www.linkedin.com/in/marcoz-silva/" target="_blank">
-  <img alt="LinkedIn" title="LinkedIn" width="24"
-    src="https://img.icons8.com/color/48/000000/linkedin--v1.png" style="filter: hue-rotate(20deg) brightness(1.2);" />
-</a>
 <a href="https://www.youtube.com/@MarcozDev" target="_blank">
   <img alt="YouTube" title="YouTube" width="24"
     src="https://img.icons8.com/color/48/000000/youtube-play.png" style="filter: hue-rotate(10deg) brightness(1.2);" />
